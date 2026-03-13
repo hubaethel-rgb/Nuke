@@ -58,7 +58,7 @@ Made By Karamveer Dont Share Without Credit
 
  ''')
 
-   await client.change_presence(activity=discord.Game(name="𝐁𝐨𝐭_𝐒𝐭𝐚𝐭𝐮𝐬"))
+   await client.change_presence(activity=discord.Game(name="online"))
 
 @client.command()
 
