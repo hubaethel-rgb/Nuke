@@ -14,15 +14,15 @@ import requests
 
 import keep_alive
 
-token = "𝐁𝐨𝐭_𝐓𝐨𝐤𝐞𝐧"
+token = "MTQ4MDg2NTkzOTc0NTUzODA1OQ.GElyg6.LbEBqyF_o0E0jjSFB9xd3UzIDjzC8jCrgy64jc"
 
 #Check 'README.md' For Tutorial
 
 #Made by Karamveer enjoy!
 
-SPAM_CHANNEL =  ["𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞 runs you" , "Get ran" , "𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞" , "oops Beamed","𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞 Beamed You","Shoulda Listened","Get beamed clowns","Beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","oops got nuked","I run you","beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","I run you","kinda got beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞"]
+SPAM_CHANNEL =  ["Drizzy runs you" , "Get ran" , "Global", "oops Beamed","Drizzy Beamed You","Shoulda Listened","Get beamed clowns","Beamed by Drizzy","oops got nuked","I run you","beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","I run you","kinda got beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞"]
 
-SPAM_MESSAGE = ["@everyone 𝐒𝐩𝐚𝐦_𝐌𝐞𝐬𝐬𝐚𝐠𝐞"]
+SPAM_MESSAGE = ["@everyone Join Vex hub"]
 
 client = commands.Bot(command_prefix="𝐏𝐫𝐞𝐟𝐢𝐱_𝐀𝐫𝐞𝐚")
 
