@@ -146,7 +146,7 @@ async def 𝐁𝐨𝐭_𝐍𝐮𝐤𝐞(ctx):
 
       try:
 
-        await user.unban("𝐘𝐨𝐮𝐫_𝐔𝐬𝐞𝐫")
+        await user.unban("vexornewacc")
 
         print(Fore.MAGENTA + f"{user.name}#{user.discriminator} Was successfully unbanned." + Fore.RESET)
 
